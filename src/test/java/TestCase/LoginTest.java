@@ -64,6 +64,7 @@ public class LoginTest {
 			arr[i] = user + "," + pwd;
 		}
 		return arr;
+		//returning the array
 
 	}
 
